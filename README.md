@@ -1,4 +1,4 @@
-# aethrex
+# dinu
 
 ```text
                           │ white light in
